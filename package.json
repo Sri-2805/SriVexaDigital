@@ -1,0 +1,22 @@
+{
+  "name": "srivexadigital",
+  "version": "1.0.0",
+  "description": "SriVexa Digital - Website Development, SEO & Digital Marketing Services",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "digital-marketing",
+    "web-development",
+    "seo",
+    "vercel"
+  ],
+  "author": "Sri Vatsa G",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
